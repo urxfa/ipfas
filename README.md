@@ -1,4 +1,4 @@
-# IPFAS - IP Finder as well as Server Names :)
+# IPFAS - IP Finder as well as Server Names
 
 ## Description
 
@@ -18,7 +18,7 @@ Ensure you have Go installed in your environment. You can download and install G
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/urxfa/ipfas.git
+   git clone https://github.com/afaaafa/ipfas.git
    ```
 
 2. Navigate to the project directory:
